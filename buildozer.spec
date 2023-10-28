@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = GPSC UPDATE
+title = GPSC
 
 # (str) Package name
 package.name = sampleapk
